@@ -98,6 +98,21 @@
     "web": "https://github.com/dom96/jester"
   },
   {
+    "name": "nim-libnx",
+    "url": "https://github.com/jyapayne/nim-libnx",
+    "method": "git",
+    "tags": [
+      "library",
+      "nintendo switch",
+      "switch",
+      "libnx",
+      "nx"
+    ],
+    "description": "A wrapper generator for libnx.",
+    "license": "The Unlicense",
+    "web": "https://github.com/jyapayne/nim-libnx"
+  },
+  {
     "name": "templates",
     "url": "https://github.com/onionhammer/nim-templates.git",
     "method": "git",
